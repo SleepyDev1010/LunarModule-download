@@ -14,6 +14,7 @@ Free for macOS, Windows and Linux.</p>
 | Your computer | Download |
 |---|---|
 | **Mac** with an Apple chip (M1 or newer) | [**LunarModule-mac.zip**](https://github.com/SleepyDev1010/LunarModule-download/releases/latest/download/LunarModule-mac.zip) |
+| **Mac** with an Intel chip (older Macs) | [**LunarModule-mac-intel.zip**](https://github.com/SleepyDev1010/LunarModule-download/releases/latest/download/LunarModule-mac-intel.zip) |
 | **Windows** 10 or 11, 64-bit | [**LunarModule-windows.zip**](https://github.com/SleepyDev1010/LunarModule-download/releases/latest/download/LunarModule-windows.zip) |
 | **Linux** 64-bit (Ubuntu 22.04+, Mint, Debian 12+, Fedora…) and Chromebooks | [**LunarModule-linux.tar.gz**](https://github.com/SleepyDev1010/LunarModule-download/releases/latest/download/LunarModule-linux.tar.gz) |
 
@@ -30,7 +31,7 @@ Lunar Module finds Python by itself, even if you install it while the app is ope
 <details open>
 <summary><b>Mac</b></summary>
 
-1. Unzip `LunarModule-mac.zip` and drag **Lunar Module** into your **Applications** folder.
+1. Unzip the download and drag **Lunar Module** into your **Applications** folder. (Not sure which Mac you have? Apple menu › **About This Mac**: "Apple M1/M2/M3/M4…" means Apple chip, "Intel" means Intel.)
 2. Open it. The first time, macOS says it can't check the app: click **Done**.
 3. Open **System Settings › Privacy & Security**, scroll down and click **Open Anyway** next to Lunar Module.
 
@@ -66,7 +67,7 @@ Or run it without installing: `./"Lunar Module/Lunar Module"`. The full guide is
 - **Building Blocks**: double-click to add code
 - A **package manager** that checks packages before installing them
 - A real **terminal**, a **debugger**, and **Make an App**
-- An optional, **free AI helper** that runs on your own computer with [Ollama](https://ollama.com): no account, no cost, nothing sent online
+- An optional, **free AI helper** that explains your code and errors and gives hints (it never writes or changes your code). It runs on your own computer with [Ollama](https://ollama.com): no account, no cost, nothing sent online
 - **Seven themes**, your choice of code font, tab size and more
 
 ## License
