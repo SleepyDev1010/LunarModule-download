@@ -5,7 +5,8 @@
 <h1 align="center">Lunar Module</h1>
 <p align="center"><b>A friendly Python editor for beginners.</b><br>
 Write your first program, press ▶ Run, and watch it work.<br>
-Free for macOS, Windows and Linux.</p>
+Free for macOS, Windows and Linux.<br>
+<a href="https://lunar-module.pages.dev"><b>lunar-module.pages.dev</b></a></p>
 
 <p align="center"><img src="img/editor.jpg" width="820" alt="Lunar Module running a small Python program"></p>
 
