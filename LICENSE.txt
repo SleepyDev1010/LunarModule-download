@@ -1,0 +1,21 @@
+LUNAR MODULE - LICENSE
+
+Copyright (c) 2026 SleepyDev. All rights reserved.
+
+Lunar Module is free to download and use, for personal, school and educational purposes.
+
+You may NOT, without written permission from the author:
+  - copy, share or redistribute Lunar Module or any part of it (link to the official
+    download page instead),
+  - sell it, or include it in another product or service,
+  - modify it, or reverse engineer, decompile or disassemble it.
+
+Programs you write with Lunar Module are yours. This license is only about Lunar Module itself.
+
+Lunar Module is provided "as is", without any warranty. The author is not liable for any
+damage or loss from using it.
+
+Lunar Module includes Python (Python Software Foundation License) and other open-source
+components, which keep their own licenses.
+
+Contact: https://github.com/SleepyDev1010
